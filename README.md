@@ -10,6 +10,7 @@ and
 
 BD: https://docs.google.com/forms/d/1gxIhyRj2kA0LVImOQYq307qdPflUy4EO2CSrtZnznJU/edit?usp=sharing}
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4047648.svg)](https://doi.org/10.5281/zenodo.4047648)
 
 Moderated by
 
